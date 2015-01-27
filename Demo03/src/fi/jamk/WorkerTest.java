@@ -11,5 +11,6 @@ package fi.jamk;
  * @author h9321
  */
 public class WorkerTest {
-    
+    Worker tyontekijat[];
+    Boss johtaja;
 }
